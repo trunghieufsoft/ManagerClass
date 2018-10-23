@@ -1,0 +1,84 @@
+﻿@model StudentsManager.Models.StudentClassModel
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/_Layout.cshtml";
+}
+
+@section Css {
+    <link href="~/Assets/select2/select2.min.css" rel="stylesheet" />
+}
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-lg-12">
+            <h1 class="page-header">Student Registration Class</h1>
+        </div>
+        <!-- /.col-lg-12 -->
+    </div>
+    <!-- /.row -->
+    <div class="row">
+        <div class="col-md-12" style="margin-bottom: 10px;">
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+        <div class="col-md-12">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    Information Registration
+                </div>
+                <!-- /.panel-heading -->
+                <div class="panel-body">
+                    <div class="form-horizontal">
+                        @Html.ValidationSummary(true, "", new { @class = "text-danger col-md-offset-2" })
+                        <div class="form-group">
+                            <label class="control-label col-md-2" for="ClassId">Class:</label>
+                            <div class="col-lg-4 col-md-6">
+                                @Html.DropDownList("ClassId", (IEnumerable<SelectListItem>)ViewBag.ClassList, new { @class = "form-control" })
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label col-md-2" for="ClassId">Student:</label>
+                            <div class="col-lg-4 col-md-6">
+                                <select class="form-control" id="StudId" name="StudId"></select>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="col-md-offset-2 col-md-10">
+                                <input type="submit" class="btn btn-success" value="submit" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@section JavaScript{
+    <script src="~/scripts/controller/HomeController/ActionCreate.js"></script>
+    <script src="~/Assets/select2/select2.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#StudId, #ClassId").select2();
+        });
+        $('.btn').off('click').on('click', function () {
+            var data = {
+                ClassId: $('#ClassId').val(),
+                StudId: $('#StudId').val(),
+            };
+            $.ajax({
+                url: '/home/create',
+                type: 'POST',
+                dataType: 'json',
+                data: {
+                    data: JSON.stringify(data)
+                },
+                success: function (response) {
+                    if (response.status) {
+                        alert('Successfully added object!')
+                        window.location.href = "/";
+                    }
+                }
+            });
+        });
+    </script>
+}

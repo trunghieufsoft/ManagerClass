@@ -1,0 +1,95 @@
+﻿@{
+    Layout = null;
+}
+@model StudentsManager.Models.UserModel
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>SB Admin 2 - Bootstrap Admin Theme</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="~/Assets/bootstraps/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- MetisMenu CSS -->
+    <link href="~/Assets/common/css/metisMenu.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="~/Assets/common/css/sb-admin-2.min.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="~/Assets/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 col-md-offset-4">
+                <div class="login-panel panel panel-default">
+                    <div class="panel-heading">
+                        <h3 class="panel-title">Please Sign In</h3>
+                    </div>
+                    <div class="panel-body">
+                        @using (Html.BeginForm("index", "login", FormMethod.Post))
+                        {
+                            @Html.AntiForgeryToken()
+                            @Html.ValidationSummary(true, null, new { @class = "alert alert-danger" })
+                            <div class="form-group">
+                                @Html.TextBoxFor(model => model.UserName, new { @class = "form-control", @autofocus = "autofocus", @placeholder = "User Name", @required = "", @pattern = "^[a-zA-Z0-9_.-]*$", @maxlength = "50" })
+                                @Html.ValidationMessageFor(model => model.UserName, "", new { @class = "text-danger" })
+                                @*<input class="form-control" placeholder="E-mail" name="email" type="email" autofocus>*@
+                            </div>
+                            <div class="form-group">
+                                @Html.PasswordFor(model => model.Password, new { @class = "form-control", @placeholder = "Password", @required = "", @pattern = "^[a-zA-Z0-9_.-]*$", @maxlength = "50" })
+                                @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+                                @*<input class="form-control" placeholder="Password" name="password" type="password" value="">*@
+                            </div>
+                            <div class="checkbox">
+                                <label>
+                                    @Html.CheckBoxFor(model => model.RememberMe)Remember Me
+                                    @*<input name="remember" type="checkbox" value="Remember Me">Remember Me*@
+                                </label>
+                            </div>
+                            <!-- Change this to a button or input when using this as a form -->
+                            <button type="submit" class="btn btn-lg btn-success btn-block">Login</button>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- jQuery -->
+    <script src="~/Assets/jquery/3.1.0/jquery.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="~/Assets/bootstraps/3.3.7/js/bootstrap.min.js"></script>
+
+    <!-- Validate Forms -->
+    <script src="~/Assets/validate-1.12.1/jquery.validate.min.js"></script>
+
+    <!-- Metis Menu Plugin JavaScript -->
+    <script src="~/Assets/common/js/metisMenu.min.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="~/Assets/common/js/sb-admin-2.min.js"></script>
+
+</body>
+
+</html>

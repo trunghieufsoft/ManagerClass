@@ -1,0 +1,125 @@
+﻿@model StudentsManager.Models.StudentsModel
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/_Layout.cshtml";
+}
+
+@section Css{
+    <link href="~/Assets/datetimepicker/jquery.datetimepicker.min.css" rel="stylesheet" />
+}
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-lg-12">
+            <h1 class="page-header">Create Student</h1>
+        </div>
+        <!-- /.col-lg-12 -->
+    </div>
+    <!-- /.row -->
+    <div class="row">
+        <div class="col-md-12" style="margin-bottom: 10px;">
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+        <div class="col-md-12">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    Information Students
+                </div>
+                <!-- /.panel-heading -->
+                <div class="panel-body">
+                        <div class="form-horizontal">
+                            @Html.ValidationSummary(true, "", new { @class = "text-danger col-md-offset-2" })
+                            <div class="form-group" style="display: none">
+                                <div class="col-lg-4 col-md-6">
+                                    @Html.EditorFor(model => model.StudId, new { type= "hidden", htmlAttributes = new { @class = "form-control item", @placeholder = "Student ID", @maxlength = "20", @required = "", @pattern = "^[a-zA-Z0-9_.-]*$" } })
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label class="control-label col-md-2">Full Name:</label>
+                                <div class="col-lg-4 col-md-6">
+                                    @Html.EditorFor(model => model.FullName, new { htmlAttributes = new { @class = "form-control item", @placeholder = "Student Name", @maxlength = "50", @required = "" } })
+                                    @Html.ValidationMessageFor(model => model.FullName, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label class="control-label col-md-2">Gender:</label>
+                                <div class="col-lg-4 col-md-6">
+                                    <div class="checkbox">
+                                        @Html.RadioButtonFor(model => model.Gender, "true", new { @checked = "true" }) <lable class="label label-success">Male</lable>
+                                        @Html.RadioButtonFor(model => model.Gender, "false") <lable class="label label-danger">Female</lable>
+                                        @Html.ValidationMessageFor(model => model.Gender, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label class="control-label col-md-2">BirthDay:</label>
+                                <div class="col-lg-4 col-md-6">
+                                    @Html.EditorFor(model => model.BirthDay, new { htmlAttributes = new { @class = "form-control item", @placeholder = "dd/mm/yyyy", @required = "", @id = "datetime" } })
+                                    @Html.ValidationMessageFor(model => model.BirthDay, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label class="control-label col-md-2">Address:</label>
+                                <div class="col-lg-4 col-md-6">
+                                    @Html.EditorFor(model => model.Address, new { htmlAttributes = new { @class = "form-control item", @placeholder = "Address" } })
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label class="control-label col-md-2">Phone:</label>
+                                <div class="col-lg-4 col-md-6">
+                                    @Html.EditorFor(model => model.Phone, new { htmlAttributes = new { @class = "form-control item", @placeholder = "Phone", @pattern = "^[0-9]*$", @maxlength = "11" } })
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <div class="col-md-offset-2 col-md-10">
+                                    <input type="submit" value="Submit" class="btn btn-success" />
+                                </div>
+                            </div>
+                        </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@section JavaScript{
+    <script src="~/Assets/datetimepicker/jquery.datetimepicker.full.min.js"></script>
+    <script>
+        $("#datetime").datetimepicker({
+            timepicker: false,
+            mask: '39/19/9999',
+            defaultDate: '08/12/1986',
+            format: 'd/m/Y',
+        });
+        $('.btn').off('click').on('click', function () {
+            var data = {
+                StudId: $('#StudId').val(),
+                FullName: $('#FullName').val(),
+                Address: $('#Address').val(),
+                BirthDay: $('#datetime').val(),
+                Gender: $('[name="Gender"]:radio:checked').val(),
+                Phone: $('#Phone').val(),
+            };
+            $.ajax({
+                url: '/students/update',
+                type: 'POST',
+                dataType: 'json',
+                data: {
+                    data: JSON.stringify(data)
+                },
+                success: function (response) {
+                    if (response.status) {
+                        alert('Successfully updated object!')
+                        window.location.href = "/students";
+                    }
+                }
+            });
+        });
+    </script>
+}

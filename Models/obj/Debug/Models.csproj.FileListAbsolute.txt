@@ -1,0 +1,30 @@
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\Models\bin\Debug\Models.dll.config
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\Models\bin\Debug\Models.dll
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\Models\bin\Debug\Models.pdb
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\Models\bin\Debug\EntityFramework.dll
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\Models\bin\Debug\EntityFramework.xml
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\Models\obj\Debug\Models.dll
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\Models\obj\Debug\Models.pdb
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\Models\bin\Debug\Models.dll.config
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\Models\bin\Debug\Models.dll
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\Models\bin\Debug\Models.pdb
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\Models\bin\Debug\EntityFramework.dll
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\Models\bin\Debug\EntityFramework.xml
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\Models\obj\Debug\Models.dll
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\Models\obj\Debug\Models.pdb
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\Models\bin\Debug\Models.dll.config
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\Models\bin\Debug\Models.dll
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\Models\bin\Debug\Models.pdb
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\Models\bin\Debug\EntityFramework.dll
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\Models\bin\Debug\EntityFramework.xml
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\Models\obj\Debug\Models.dll
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\Models\obj\Debug\Models.pdb
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache

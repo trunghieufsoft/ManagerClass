@@ -1,0 +1,154 @@
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\ApplicationInsights.config
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\roslyn\csc.exe
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\roslyn\vbc.exe
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\roslyn\VBCSCompiler.exe
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\StudentsManager.dll.config
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\StudentsManager.dll
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\StudentsManager.pdb
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\Microsoft.AI.Web.dll
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\Models.dll
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\System.Web.Helpers.dll
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\System.Web.Mvc.dll
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\System.Web.Razor.dll
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\System.Web.Webpages.Deployment.dll
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\System.Web.Webpages.dll
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\System.Web.Webpages.Razor.dll
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\EntityFramework.dll
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\EntityFramework.SqlServer.dll
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\Models.pdb
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\Microsoft.AI.Web.xml
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\Microsoft.ApplicationInsights.xml
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\System.Web.Razor.xml
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\System.Web.Webpages.xml
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\System.Web.Webpages.Deployment.xml
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\System.Web.Webpages.Razor.xml
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\System.Web.Helpers.xml
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\System.Web.Mvc.xml
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\EntityFramework.xml
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\bin\EntityFramework.SqlServer.xml
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\obj\Debug\StudentsManager.csprojResolveAssemblyReference.cache
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\obj\Debug\StudentsManager.dll
+C:\Users\HieuLT22\Desktop\ATNB\StudentsManagerSystem\StudentsManager\obj\Debug\StudentsManager.pdb
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\ApplicationInsights.config
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\roslyn\csc.exe
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\roslyn\vbc.exe
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\roslyn\VBCSCompiler.exe
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\StudentsManager.dll
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\StudentsManager.pdb
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\EntityFramework.dll
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\EntityFramework.SqlServer.dll
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\Microsoft.AI.Web.dll
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\Microsoft.ApplicationInsights.dll
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\Models.dll
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\System.Web.Helpers.dll
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\System.Web.Mvc.dll
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\System.Web.Razor.dll
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\System.Web.Webpages.Deployment.dll
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\System.Web.Webpages.dll
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\System.Web.Webpages.Razor.dll
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\Models.pdb
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\EntityFramework.xml
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\EntityFramework.SqlServer.xml
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\Microsoft.AI.Web.xml
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\Microsoft.ApplicationInsights.xml
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\System.Web.Razor.xml
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\System.Web.Webpages.xml
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\System.Web.Webpages.Deployment.xml
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\System.Web.Webpages.Razor.xml
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\System.Web.Helpers.xml
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\System.Web.Mvc.xml
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\obj\Debug\StudentsManager.csprojResolveAssemblyReference.cache
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\obj\Debug\StudentsManager.dll
+C:\Users\trunghieu\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\obj\Debug\StudentsManager.pdb
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\ApplicationInsights.config
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\roslyn\csc.exe
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\roslyn\vbc.exe
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\roslyn\VBCSCompiler.exe
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\StudentsManager.dll.config
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\StudentsManager.dll
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\StudentsManager.pdb
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\EntityFramework.dll
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\EntityFramework.SqlServer.dll
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\Microsoft.AI.Web.dll
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\Models.dll
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\System.Web.Helpers.dll
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\System.Web.Mvc.dll
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\System.Web.Razor.dll
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\System.Web.Webpages.Deployment.dll
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\System.Web.Webpages.dll
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\System.Web.Webpages.Razor.dll
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\Models.pdb
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\EntityFramework.xml
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\EntityFramework.SqlServer.xml
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\Microsoft.AI.Web.xml
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\Microsoft.ApplicationInsights.xml
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\System.Web.Razor.xml
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\System.Web.Webpages.xml
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\System.Web.Webpages.Deployment.xml
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\System.Web.Webpages.Razor.xml
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\System.Web.Helpers.xml
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\bin\System.Web.Mvc.xml
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\obj\Debug\StudentsManager.csprojResolveAssemblyReference.cache
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\obj\Debug\StudentsManager.dll
+C:\Users\HieuLT22\OneDrive\FPT\ATNB - Source\StudentsManagerSystem\StudentsManager\obj\Debug\StudentsManager.pdb
